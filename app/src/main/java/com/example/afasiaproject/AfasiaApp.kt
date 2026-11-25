@@ -7,5 +7,5 @@ import androidx.compose.material3.Scaffold
 @Composable
 fun AfasiaApp (){
     
-Scaffold(){}
+    Scaffold()
 }
