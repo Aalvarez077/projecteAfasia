@@ -5,5 +5,5 @@ import java.util.Locale
 
 @Composable
 fun CategoryScreen(){
-// TODO:  
+
 }
