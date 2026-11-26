@@ -14,5 +14,4 @@ object VocabularyManager{
     fun getWords(category: String): List<String>{
         return jsonFile[category] ?: emptyList()
     }
-    }
 }
